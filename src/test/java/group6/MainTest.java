@@ -1,11 +1,11 @@
-package group6;
-
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
 public class MainTest {
+    
     @Test
-    void trivialTest() {
+    public void trivialTest() {
         assertTrue(true);
     }
 }
+
